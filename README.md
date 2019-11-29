@@ -1,4 +1,4 @@
-## Auto Key/Value extraction from texts
+## Auto Key-Value extraction from texts
 
 
 ### Reference Documentation
